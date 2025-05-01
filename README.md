@@ -4,11 +4,11 @@
 
 Программа запускается на 4-х конфигурациях: стандартном РК, модифицированном РК-Nova, РК/60-Nova и Апогей.
 
-Вживую посмотреть можно на моём эмуляторе: https://86rk.ru/emulator/#eyJjb21wIjoicmFkaW8tODZyayIsImZpbGUiOiJ0cmVlMjAyNS5yayJ9.
-
 Для упрощения программы не учитывается ограничение на количество атрибутов контроллера ВГ75, на качество картинки это не влияет.
 
 ![Screenshot](https://raw.githubusercontent.com/radio-86rk/tree2025.rk/refs/heads/main/screenshot.gif)
+
+Вживую посмотреть можно на эмуляторе: https://86rk.ru/emulator/#eyJjb21wIjoicmFkaW8tODZyayIsImZpbGUiOiJ0cmVlMjAyNS5yayJ9
 
 ## Параметры программы
 
